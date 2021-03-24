@@ -1,6 +1,12 @@
 # VS_10021990
 
 This is a Spring boot project which has only back code.
+
+Change the Database username and password in the application.properties file
+# Database connection
+spring.datasource.username = 
+spring.datasource.password = 
+
 Masking of the card number and sort the data based on  expiry date by descending.
 
 Post:
